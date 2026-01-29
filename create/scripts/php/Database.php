@@ -4,7 +4,7 @@
 
         const HOST = '127.0.0.1';
         const USER = 'root';
-        const PASSWORD = 'password';
+        const PASSWORD = '';
         const DATABASE = 'yukon';
 
         function __construct() {
